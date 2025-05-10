@@ -14,7 +14,7 @@ Cuttleface is a computer vision–driven interactive system designed to foster s
 - Dynamic visual feedback rendered in Unity.
 - TCP socket communication between Python and Unity.
 - State-based interaction logic for different user counts (1–6 users).
-- Manual override fallback mode for testing or any other scenarios (video recording).
+- Manual override mode for testing or any other scenarios (video recording).
 
 ### Project Structure
 ```plaintext
